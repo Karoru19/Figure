@@ -2,9 +2,9 @@
 
 ## Cpp
 ### Instruction
-1. Open terminal in Cpp directory
-2. make
-3. ./output
+1. Open terminal in _Cpp_ directory
+2. Write ```make``` to compile application.
+3. Write ```./output``` to run application.
 
 ## Qt
-Open Figure.pro in QtCreator
+Open _Figure.pro_ in _QtCreator_

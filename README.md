@@ -6,5 +6,5 @@
 2. make
 3. ./output
 
-##Qt
+## Qt
 Open Figure.pro in QtCreator
